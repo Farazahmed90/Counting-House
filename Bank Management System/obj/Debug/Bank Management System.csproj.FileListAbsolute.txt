@@ -1,0 +1,46 @@
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.exe.config
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.exe
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.pdb
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.indexForm.resources
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.Properties.Resources.resources
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.loginForm.resources
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.Cache
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.exe
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.pdb
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.empForm.resources
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Projects\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.customerUserControl.resources
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.exe.config
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.exe
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.pdb
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\obj\Debug\Bank Management System.csprojResolveAssemblyReference.cache
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.indexForm.resources
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.Properties.Resources.resources
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.loginForm.resources
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.Cache
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.exe
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.pdb
+C:\Users\Abdul Moid\Documents\Visual Studio 2012\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.viewForm.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.exe.config
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.exe
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.pdb
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.exe
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.pdb
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.viewForm.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.indexForm.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.Properties.Resources.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.loginForm.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.Cache
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.UpdateForm.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\Bank Management System.csprojResolveAssemblyReference.cache
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.exe.config
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.exe
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.pdb
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.exe
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\bin\Debug\BankManagementSystem.pdb
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\Bank Management System.csprojResolveAssemblyReference.cache
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.UpdateForm.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.viewForm.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.indexForm.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.Properties.Resources.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\BankManagementSystem.loginForm.resources
+C:\Users\Faraz_Ahmed\Desktop\Bank Managment System1\Bank Managment System1\Bank Managment System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.Cache
